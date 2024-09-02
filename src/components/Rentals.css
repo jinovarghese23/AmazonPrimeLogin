@@ -1,0 +1,12 @@
+.banner-card{
+    position: relative;
+}
+.banner-card img{
+    width: 100%;
+    height:fit-content;
+}
+.banner-text{
+    position:absolute;
+    top: 0;
+
+}

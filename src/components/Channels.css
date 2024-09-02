@@ -1,0 +1,13 @@
+.parent {
+    background-color:whitesmoke;
+    height:440px;
+}
+.child {
+    display: inline-block;
+}
+.child img{
+    height:100px;
+}
+.img_grp{
+    margin-left: 277px;
+}
